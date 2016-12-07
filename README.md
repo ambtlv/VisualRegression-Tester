@@ -24,6 +24,6 @@
 
 // Running regression test based off earlier reference screeshot (step 3)
 // When you run the test command for the first time a 'bitmaps_test' folder is created.
-4. Run *npn run test* - once test is completed your browser should open with regression report.
+4. Run *npm run test* - once test is completed your browser should open with regression report.
 
 
